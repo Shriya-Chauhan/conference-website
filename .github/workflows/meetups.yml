@@ -1,0 +1,31 @@
+# This file contains the list of the currently planned or hosted AsyncAPI meetups.
+#
+meetups:
+  - title: "Your Meetup Title"
+    description: "Describe the focus of your meetup here"
+    host:
+      name: "Your Full Name"
+      github: "yourgithubhandle"
+      slack: "U12345678"
+      wg_member: false
+    organizers:
+      - name: "Co-organizer Name"
+        github: "coorganizer"
+        slack: "U87654321"
+    objectives:
+      - "Your first objective"
+      - "Your second objective"
+    sponsorship:
+      company: "Optional Company Name"
+      type: "venue"
+      notes: "Optional sponsorship details"
+    cfp:
+      status: "open"
+      url: "https://yourform.com/asyncapi-cfp"
+    compliance:
+      code_of_conduct: true
+      marketing_free: true
+    announcement:
+      date: "2025-05-09"
+      event_date: "2025-08-09"
+    pull_request_url: "Will be updated after PR creation"
